@@ -1,18 +1,20 @@
-<h1 align="center">🌙 Nyxchell</h1>
-<h3 align="center">Desarrolladora Junior | Full Stack en aprendizaje | Apasionada por la tecnología</h3>
+<h1 align="left">🌙 Nyxchell</h1>
+<h3 align="left">Desarrolladora Junior | Full Stack en aprendizaje </h3>
 
 ---
 
-## 👩‍💻 Sobre mí
+## Sobre mí
 
-✨ Estudiante del área de informática enfocada en el crecimiento constante dentro del mundo del desarrollo de software.  
-💻 Actualmente fortaleciendo conocimientos en desarrollo web, programación y bases de datos.  
-🚀 Interesada en crear proyectos funcionales, modernos y con impacto real.  
-🌌 “Nyx” representa la noche en la mitología griega: misterio, conocimiento y evolución.
+Soy desarrolladora junior apasionada por la tecnología, el aprendizaje continuo y la creación de soluciones digitales funcionales.
+Actualmente me encuentro fortaleciendo mis habilidades en desarrollo de software, bases de datos y tecnologías web, con el objetivo de crecer profesionalmente en el área de desarrollo Full Stack.
+Me caracterizo por ser una persona responsable, organizada y con gran disposición para aprender nuevas tecnologías.
+Disfruto trabajar en proyectos que me permitan mejorar mis habilidades técnicas y adquirir experiencia en el desarrollo de aplicaciones y sistemas informáticos.
+
+Mi objetivo es continuar creciendo como desarrolladora, participar en proyectos innovadores y aportar soluciones útiles mediante la tecnología.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 💠 Lenguajes:
 - C++
@@ -29,16 +31,15 @@
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
-- ⚡ Desarrollo Full Stack
-- 🗄️ Optimización de bases de datos
-- 🌐 Diseño web moderno
-- 🔒 Buenas prácticas de desarrollo
+- Desarrollo Full Stack
+- Optimización de bases de datos
+- Diseño web moderno
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 ✔️ Seguir creciendo como desarrolladora  
 ✔️ Participar en proyectos innovadores  
@@ -47,10 +48,7 @@
 
 ---
 
-## 🌐 Perfil
+## Contacto
 
 ```bash
-Nombre: Nyxchell
-Rol: Junior Developer
-Enfoque: Desarrollo Web & Software
-Estado: Aprendiendo y construyendo 🚀
+Correo: alvaradobaezmichell@gmail.com
