@@ -16,14 +16,14 @@ Mi objetivo es continuar creciendo como desarrolladora, participar en proyectos 
 
 ## Tecnologías y herramientas
 
-💠 Lenguajes:
+ Lenguajes:
 - C++
 - Java
 - JavaScript
 - PHP
 - HTML
 
-💠 Conocimientos:
+ Conocimientos:
 - Desarrollo Web
 - Bases de Datos SQL
 - Lógica de Programación
@@ -41,10 +41,10 @@ Mi objetivo es continuar creciendo como desarrolladora, participar en proyectos 
 
 ## Objetivos
 
-✔️ Seguir creciendo como desarrolladora  
-✔️ Participar en proyectos innovadores  
-✔️ Construir soluciones útiles mediante la tecnología  
-✔️ Convertirme en una profesional del desarrollo de software
+- Seguir creciendo como desarrolladora  
+- Participar en proyectos innovadores  
+- Construir soluciones útiles mediante la tecnología  
+- Convertirme en una profesional del desarrollo de software
 
 ---
 
