@@ -1,3 +1,5 @@
+<img width="3840" height="2160" alt="704548-3840x2160-desktop-4k-thomas-shelby-peaky-blinders-wallpaper-image" src="https://github.com/user-attachments/assets/746f4c36-7a85-4869-8f21-aea93f75884a" />
+<img width="3840" height="2160" alt="704548-3840x2160-desktop-4k-thomas-shelby-peaky-blinders-wallpaper-image" src="https://github.com/user-attachments/assets/cdb5912d-0603-4841-9859-9070033e3f5d" />
 <h1 align="left">🌙 Nyxchell</h1>
 <h3 align="left">Desarrolladora Junior | Full Stack en aprendizaje </h3>
 
